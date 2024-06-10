@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Gameplay/TwoPlayersController.java" line="153" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b45a5d7c-58a2-41fb-a1f0-65f03782f7f4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1793503528">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="fxml" value="1" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Gameplay/MainGameController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>break</find>
+      <find>accuracy</find>
+      <find>‘</find>
+      <find>’</find>
+      <find>”</find>
+      <find>.</find>
+      <find>randL1</find>
+      <find>s</find>
+      <find>System</find>
+      <find>System.out.println</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Gameplay/spk.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/backgroundFormat.css" />
+        <option value="$PROJECT_DIR$/src/Graphics/GenTextGameStyleSheet.css" />
+        <option value="$PROJECT_DIR$/src/Gameplay/test.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/BaseGameController.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/BaseGame.fxml" />
+        <option value="$PROJECT_DIR$/src/Gameplay/gameRandomizer.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/GameRandomizer.java" />
+        <option value="$PROJECT_DIR$/src/Menus/StartController.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/FixedGameStrings.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/GeneralTextGameStyleSheet.css" />
+        <option value="$PROJECT_DIR$/src/Menus/MainMenu.fxml" />
+        <option value="$PROJECT_DIR$/src/Gameplay/LegacyGame.fxml" />
+        <option value="$PROJECT_DIR$/src/Menus/Modes.fxml" />
+        <option value="$PROJECT_DIR$/src/MAIN/Main.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/LegacyGameController.java" />
+        <option value="$PROJECT_DIR$/src/Graphics/TextButtonStyleSheet.css" />
+        <option value="$PROJECT_DIR$/src/Gameplay/BaseEndGame.fxml" />
+        <option value="$PROJECT_DIR$/src/Gameplay/ProgressiveController.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/ProgressiveGame.fxml" />
+        <option value="$PROJECT_DIR$/src/Gameplay/BaseEndGameController.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/GameStrings.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/MainGameController.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/TwoPlayersController.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Help.fxml" />
+        <option value="$PROJECT_DIR$/src/Menus/HelpController.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/MainGame.fxml" />
+        <option value="$PROJECT_DIR$/src/Menus/MenuController.java" />
+        <option value="$PROJECT_DIR$/src/Gameplay/TwoPlayers.fxml" />
+        <option value="$PROJECT_DIR$/src/Menus/ModeController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="966" />
+    <option name="y" value="219" />
+    <option name="width" value="1657" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MismatchedCollectionQueryUpdate</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaFxTextGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFxTextGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFxTextGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFxTextGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFxTextGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFxTextGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Gameplay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFxTextGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFxTextGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MAIN" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553108620924" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gameplay.GameStrings" />
+      <module name="JavaFxTextGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gameplay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MAIN.Main" />
+      <module name="JavaFxTextGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MAIN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gameplay.test" />
+      <module name="JavaFxTextGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gameplay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.GameStrings" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GameStrings" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45a5d7c-58a2-41fb-a1f0-65f03782f7f4" name="Default" comment="" />
+      <created>1552918805283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552918805283</updated>
+      <workItem from="1552942657014" duration="3749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3749000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="966" y="219" width="1657" height="941" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11049038" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20824525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32875264" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/IOException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/javafx-src.zip!/javafx/scene/control/Labeled.java" />
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/spk.java" />
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/FixedGameStrings.java" />
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/LegacyGame.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/LegacyGameController.java" />
+    <entry file="file://$PROJECT_DIR$/src/Menus/Modes.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <marker date="1553100912000" expanded="true" signature="526:1829" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="546:1815" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="637:890" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="663:870" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="971:1196" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="997:1176" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="1285:1794" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="1311:1774" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="1853:1947" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="1959:2056" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2069:2559" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2174:2545" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2194:2372" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2396:2444" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2473:2538" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2570:2802" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2690:2790" ph="..." />
+            <marker date="1553100912000" expanded="true" signature="2712:2774" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/BaseEndGame.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
+          <folding>
+            <marker date="1553102288000" expanded="true" signature="1439:1526" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="1439:1506" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="1585:1838" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="1693:1827" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="1713:1820" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="1850:2065" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="1970:2052" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="1989:2045" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="2078:2176" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="2187:2652" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="2307:2640" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="2329:2391" ph="..." />
+            <marker date="1553102288000" expanded="true" signature="2414:2624" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/GeneralTextGameStyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphics/TextButtonStyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/GameStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="113" column="82" selection-start-line="113" selection-start-column="82" selection-end-line="113" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/BaseEndGameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menus/HelpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menus/Help.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553105382000" expanded="true" signature="2402:2413" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/MainGame.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <marker date="1553105510000" expanded="true" signature="1487:1707" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="1519:1681" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="1814:2484" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="1845:2460" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="1935:2138" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="1974:2131" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="2206:2428" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="2245:2421" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="2539:3745" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="2659:3731" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="2682:3724" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="2766:3122" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="2797:2990" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="3020:3098" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="3182:3403" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="3213:3379" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="3482:3700" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="3513:3693" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="3757:3853" ph="..." />
+            <marker date="1553105510000" expanded="true" signature="3864:3948" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/TwoPlayersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="86" column="47" lean-forward="true" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/ProgressiveGame.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="71" column="82" lean-forward="true" selection-start-line="71" selection-start-column="82" selection-end-line="71" selection-end-column="82" />
+          <folding>
+            <marker date="1553102950000" expanded="true" signature="2743:2773" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menus/ModeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/TwoPlayers.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553105792000" expanded="true" signature="2316:3040" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="2342:3016" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="2426:2669" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="2458:2643" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="2731:2989" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="2763:2963" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3095:4301" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3215:4287" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3238:4280" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3322:3678" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3353:3546" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3576:3654" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3738:3959" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="3769:3935" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="4038:4256" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="4069:4249" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="4313:4410" ph="..." />
+            <marker date="1553105792000" expanded="true" signature="4421:4505" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/ProgressiveController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="124" column="26" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menus/StartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MAIN/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="method#setOverAllScorePlayer2#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menus/MainMenu.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menus/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gameplay/MainGameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,49 @@
+.root{
+    -fx-background-color: #bce6d8;
+}
+
+/*Label and Text field/area*/
+.label {
+    -fx-font: 24px "Arial";
+    -fx-font-weight: Normal;
+    -fx-text-fill: black;
+
+}
+
+.text-area{
+    -fx-font: 24px "Arial";
+    -fx-font-weight: Normal;
+    -fx-text-fill: black;
+}
+
+.text-field{
+    -fx-font: 24px "Arial";
+    -fx-font-weight: Normal;
+    -fx-text-fill: black;
+}
+/*Button*/
+.button:hover{
+    -fx-backgound-color: #e61b46;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.button:pressed:hover {
+    -fx-scale-y: 0.99;
+    -fx-scale-x: 0.99;
+
+}
+
+.button {
+    -fx-text-fill: #ffffff;
+    -fx-font: 24px "Arial";
+    -fx-background-color: #e6042a;
+}
+
+/*Combo-box*/
+.combo-box .cell {
+    -fx-background-color: #e6042a;
+    -fx-text-fill: White;
+    -fx-alignment: CENTER;
+    -fx-content-display: LEFT;
+}

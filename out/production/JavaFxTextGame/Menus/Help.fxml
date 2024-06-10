@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane stylesheets="@../Graphics/GeneralTextGameStyleSheet.css" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Menus.HelpController">
+    <center>
+        <HBox alignment="CENTER" prefHeight="425.0" prefWidth="372.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextArea editable="false" prefHeight="425.0" prefWidth="412.0" stylesheets="@../Graphics/TextButtonStyleSheet.css" text="To start the Main Game Select a difficulty.&#10;Once the game starts make sure to click on the textfield (small text box) before typing. If the user is to type on the textarea (large text box) then the user will get punished and the game will close.&#10;&#10;When you finish the game there should be a button that will appear in red and that will take you to the results page showing what you have achieved when playing the game.&#10;&#10;Extra modes -&#10;In extra modes there is:&#10;The Non-Stop Mode - This mode in which the text will progress everytime the user finishes the textarea (to progress press space) until all seven levels have been completed. It will take some time before a player can finish Non-Stop mode.&#10;&#10;Legacy and Two Players - Legacy mode is the old typing game that was used. However, it allows you to get faster and faster everytime you play since it does not randomly generate. Two player mode also uses legacy mode so that both players have a fair chance in getting the same score without luck needed.&#10;&#10;To leave any game modes use the &quot;Quit&quot; button and to exit the game either press the [x] button on the top right corner or exit through the main menu with the button or escape key.&#10;&#10;Ps. If the typing game is not functional (i.e the textfield does not work with text area restart the game by closing and opening it again)." wrapText="true" />
+         </children></HBox>
+    </center>
+    <top>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Help Room" />
+         </children></HBox>
+    </top>
+    <right>
+        <HBox prefHeight="425.0" prefWidth="92.0" BorderPane.alignment="CENTER" />
+    </right>
+    <bottom>
+        <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+    </bottom>
+    <left>
+        <VBox alignment="BOTTOM_LEFT" prefHeight="200.0" prefWidth="100.0" spacing="5.0" BorderPane.alignment="CENTER">
+            <padding>
+                <Insets left="20.0" />
+            </padding>
+         <children>
+            <Button fx:id="backButton" mnemonicParsing="false" onAction="#backButton" stylesheets="@../Graphics/TextButtonStyleSheet.css" text="Back" />
+         </children>
+        </VBox>
+    </left>
+</BorderPane>
